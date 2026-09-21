@@ -6,7 +6,7 @@ The main purpose of prompt engineering is to guide artificial intelligence model
 •	Control Tone and Format: Ensure the AI replies in a specific style, length, or layout (like bullet points, JSON code, or a friendly voice).
 •	Handle Complex Tasks: Break hard problems into smaller steps using methods like chain-of-thought reasoning.
 •	Bridge Vague Inputs: Help everyday user requests turn into structured, actionable commands that an AI application can actually process. 
-
+ 
 ## PROMPTING TECHNIQUES
 1. Zero-Shot Prompting
 You give the AI a direct task or question with no background examples, relying entirely on its pre-trained knowledge.
